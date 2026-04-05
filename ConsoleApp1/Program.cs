@@ -13,12 +13,12 @@ class PaintingEstimate
         length = Convert.ToInt32(ReadLine());
         Write("Enter Width of a room in feet:");
         width = Convert.ToInt32(ReadLine());
-        paintingCost = ComputerCost(length, width);
+        paintingCost = ComputeCost(length, width);
         WriteLine("The cost of painting the room height {0}, width {1}. Painting cost is: {2}", 
         length, width, paintingCost.ToString("C"));
     }
 
-    public static double ComputerCost(int length, int width)
+    public static double ComputeCost(int length, int width)
     {
         const int height = 9;
         const int costPerSquareFoot = 6;

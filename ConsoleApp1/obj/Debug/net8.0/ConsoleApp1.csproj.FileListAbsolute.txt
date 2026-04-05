@@ -12,3 +12,4 @@
 /Users/fay/Code_Project/Recall_practice/Painting/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /Users/fay/Code_Project/Recall_practice/Painting/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /Users/fay/Code_Project/Recall_practice/Painting/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/fay/Code_Project/Recall_practice/Painting/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
